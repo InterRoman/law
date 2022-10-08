@@ -5,10 +5,11 @@ layout: homepage
 
 ## Interests
 
-- **Langlands Program**
-- **Algebraic Number Theory**
-- **Representation Theory**
-- **Arithmetic Geometry**
+- *International law*
+- **International humanitarian law**
+- **Humans rihts**
+- **Sanctions**
+- **Constitutional law**
 
 
 ## Talks & Notes
