@@ -5,7 +5,7 @@ layout: homepage
 
 ## Interests
 
-- *International law*
+- **International law**
 - **International humanitarian law**
 - **Humans rihts**
 - **Sanctions**
